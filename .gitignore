@@ -1,0 +1,11 @@
+/.idea/
+/.ipynb_checkpoints/
+/_toolkit/
+/data/
+/raw_data/
+/log/
+/info/
+/len_chunks/
+/model/
+/predictions/
+info.pkl
